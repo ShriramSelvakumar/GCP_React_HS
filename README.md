@@ -9,7 +9,7 @@ _In project directory_
 Use below command to build
 
 ```
-npm build
+npm i
 ```
 
 ## Running server in dev mode
@@ -19,4 +19,13 @@ _In project directory_
 Run below command to start server
 ```
 npm start
+```
+
+## Running server in Production
+
+_In project directory_
+
+Run below command to start server
+```
+npm run build
 ```
