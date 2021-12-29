@@ -20,4 +20,3 @@ Run below command to start server
 ```
 npm start
 ```
-# GCP_React_HS
